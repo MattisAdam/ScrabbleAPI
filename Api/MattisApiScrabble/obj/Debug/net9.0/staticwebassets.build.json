@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DQB0aoT6g9a3NfKjG5YSyNQdr53B11KPWr/DGey9U/o=",
+  "Source": "MattisApiScrabble",
+  "BasePath": "_content/MattisApiScrabble",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

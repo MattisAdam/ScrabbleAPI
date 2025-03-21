@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\MattisApiScrabble\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattisapiscrabble\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|solutionrelative:controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E051-BFD7-41BE-87BA-32DFF5CC042D}|..\\Mattis.Api.Scrabble.Db\\Mattis.Api.Scrabble.Db.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.db\\repository\\implementations\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E051-BFD7-41BE-87BA-32DFF5CC042D}|..\\Mattis.Api.Scrabble.Db\\Mattis.Api.Scrabble.Db.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.db\\repository\\implementations\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB637E2-FD79-4AF6-8F15-7BBC769E1E17}|..\\Mattis.Api.Scrabble.Business\\Mattis.Api.Scrabble.Business.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.business\\player\\command\\createplayercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE2F6CB-7137-4E6D-B4CE-AA95F36346A1}|..\\Mattis.Api.Scrabble.Dto\\Mattis.Api.Scrabble.Dto.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.dto\\playercriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB637E2-FD79-4AF6-8F15-7BBC769E1E17}|..\\Mattis.Api.Scrabble.Business\\Mattis.Api.Scrabble.Business.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.business\\player\\query\\getplayersbycriteriaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEEA59E-2043-4F41-859C-899DCA8699B4}|..\\Mattis.Api.Scrabble.Model\\Mattis.Api.Scrabble.Model.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.model\\playerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattisapiscrabble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB637E2-FD79-4AF6-8F15-7BBC769E1E17}|..\\Mattis.Api.Scrabble.Business\\Mattis.Api.Scrabble.Business.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.business\\apiscrabbleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E051-BFD7-41BE-87BA-32DFF5CC042D}|..\\Mattis.Api.Scrabble.Db\\Mattis.Api.Scrabble.Db.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.db\\repository\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattisapiscrabble\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7B6BF6-7312-4788-B5D3-2662A1024AC2}|..\\Mattis.Core.Data\\Mattis.Core.Data.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.core.data\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E051-BFD7-41BE-87BA-32DFF5CC042D}|..\\Mattis.Api.Scrabble.Db\\Mattis.Api.Scrabble.Db.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.db\\repository\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6728E051-BFD7-41BE-87BA-32DFF5CC042D}|..\\Mattis.Api.Scrabble.Db\\Mattis.Api.Scrabble.Db.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.db\\unitofwork\\iapiscrabbleunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEF\\AppData\\Roaming\\Microsoft\\UserSecrets\\9f571d6d-5bde-4e56-92d0-1b1a3823350f\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB637E2-FD79-4AF6-8F15-7BBC769E1E17}|..\\Mattis.Api.Scrabble.Business\\Mattis.Api.Scrabble.Business.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.business\\game\\query\\getgamebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB637E2-FD79-4AF6-8F15-7BBC769E1E17}|..\\Mattis.Api.Scrabble.Business\\Mattis.Api.Scrabble.Business.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.business\\player\\query\\getplayerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEEA59E-2043-4F41-859C-899DCA8699B4}|..\\Mattis.Api.Scrabble.Model\\Mattis.Api.Scrabble.Model.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.model\\gamedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB637E2-FD79-4AF6-8F15-7BBC769E1E17}|..\\Mattis.Api.Scrabble.Business\\Mattis.Api.Scrabble.Business.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.business\\game\\command\\creategamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB637E2-FD79-4AF6-8F15-7BBC769E1E17}|..\\Mattis.Api.Scrabble.Business\\Mattis.Api.Scrabble.Business.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\mattis.api.scrabble.business\\player\\command\\deleteplayercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Db\\Repository\\Implementations\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\Repository\\Implementations\\PlayerRepository.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Db\\Repository\\Implementations\\PlayerRepository.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\Repository\\Implementations\\PlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:20:02.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Db\\Repository\\Implementations\\GameRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\Repository\\Implementations\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Db\\Repository\\Implementations\\GameRepository.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\Repository\\Implementations\\GameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:37:47.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreatePlayerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\Player\\Command\\CreatePlayerCommand.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\Player\\Command\\CreatePlayerCommand.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\Player\\Command\\CreatePlayerCommand.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Business\\Player\\Command\\CreatePlayerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:27:25.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\MattisApiScrabble\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\MattisApiScrabble\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "Controllers\\PlayerController.cs",
+              "ViewState": "AgIAABAAAACAmJmZmdkgwBUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:18:41.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetPlayersByCriteriaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\Player\\Query\\GetPlayersByCriteriaQuery.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\Player\\Query\\GetPlayersByCriteriaQuery.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\Player\\Query\\GetPlayersByCriteriaQuery.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Business\\Player\\Query\\GetPlayersByCriteriaQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:50:16.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerCriteria.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Dto\\PlayerCriteria.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Dto\\PlayerCriteria.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Dto\\PlayerCriteria.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Dto\\PlayerCriteria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:14:13.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerDao.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Model\\PlayerDao.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Model\\PlayerDao.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Model\\PlayerDao.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Model\\PlayerDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:21:20.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\MattisApiScrabble\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\MattisApiScrabble\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADgAAABgZmZmZsYwwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:57:02.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiScrabbleProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\ApiScrabbleProfile.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\ApiScrabbleProfile.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\ApiScrabbleProfile.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Business\\ApiScrabbleProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:47:39.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Core.Data\\Repository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Core.Data\\Repository\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Core.Data\\Repository\\IBaseRepository.cs",
+              "RelativeToolTip": "..\\Mattis.Core.Data\\Repository\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:41:23.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Db\\Repository\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\Repository\\IGameRepository.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Db\\Repository\\IGameRepository.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\Repository\\IGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:40:49.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IApiScrabbleUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Db\\UnitOfWork\\IApiScrabbleUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\UnitOfWork\\IApiScrabbleUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Db\\UnitOfWork\\IApiScrabbleUnitOfWork.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\UnitOfWork\\IApiScrabbleUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:47:07.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\MattisApiScrabble\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\MattisApiScrabble\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:49:40.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Db\\Repository\\IPlayerRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\Repository\\IPlayerRepository.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Db\\Repository\\IPlayerRepository.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\Repository\\IPlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:13:49.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetGameByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\Game\\Query\\GetGameByIdQuery.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\Game\\Query\\GetGameByIdQuery.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\Game\\Query\\GetGameByIdQuery.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Business\\Game\\Query\\GetGameByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:54:11.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\LEF\\AppData\\Roaming\\Microsoft\\UserSecrets\\9f571d6d-5bde-4e56-92d0-1b1a3823350f\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\9f571d6d-5bde-4e56-92d0-1b1a3823350f\\secrets.json",
+              "ToolTip": "C:\\Users\\LEF\\AppData\\Roaming\\Microsoft\\UserSecrets\\9f571d6d-5bde-4e56-92d0-1b1a3823350f\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\9f571d6d-5bde-4e56-92d0-1b1a3823350f\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T10:58:17.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateGameCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\Game\\Command\\CreateGameCommand.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\Game\\Command\\CreateGameCommand.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\Game\\Command\\CreateGameCommand.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Business\\Game\\Command\\CreateGameCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:27:49.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameDao.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Model\\GameDao.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Model\\GameDao.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Model\\GameDao.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Model\\GameDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:22:48.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetPlayerByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\Player\\Query\\GetPlayerByIdQuery.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\Player\\Query\\GetPlayerByIdQuery.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\Player\\Query\\GetPlayerByIdQuery.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Business\\Player\\Query\\GetPlayerByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:17:32.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeletePlayerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\Player\\Command\\DeletePlayerCommand.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\Player\\Command\\DeletePlayerCommand.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Business\\Player\\Command\\DeletePlayerCommand.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Business\\Player\\Command\\DeletePlayerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:49:04.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

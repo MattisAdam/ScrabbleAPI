@@ -1,0 +1,15 @@
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\bin\Debug\net9.0\Mattis.Api.Scrabble.Model.deps.json
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\bin\Debug\net9.0\Mattis.Api.Scrabble.Model.dll
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\bin\Debug\net9.0\Mattis.Api.Scrabble.Model.pdb
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\bin\Debug\net9.0\Mattis.Core.Data.dll
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\bin\Debug\net9.0\Mattis.Core.Data.pdb
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\obj\Debug\net9.0\Mattis.Api.Scrabble.Model.csproj.AssemblyReference.cache
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\obj\Debug\net9.0\Mattis.Api.Scrabble.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\obj\Debug\net9.0\Mattis.Api.Scrabble.Model.AssemblyInfoInputs.cache
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\obj\Debug\net9.0\Mattis.Api.Scrabble.Model.AssemblyInfo.cs
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\obj\Debug\net9.0\Mattis.Api.Scrabble.Model.csproj.CoreCompileInputs.cache
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\obj\Debug\net9.0\Mattis.A.3308095B.Up2Date
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\obj\Debug\net9.0\Mattis.Api.Scrabble.Model.dll
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\obj\Debug\net9.0\refint\Mattis.Api.Scrabble.Model.dll
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\obj\Debug\net9.0\Mattis.Api.Scrabble.Model.pdb
+C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Model\obj\Debug\net9.0\ref\Mattis.Api.Scrabble.Model.dll

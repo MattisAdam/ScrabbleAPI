@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations" />
+  </ItemGroup>
+	
+  <ItemGroup>
+    <ProjectReference Include="..\Mattis.Api.Scrabble.Dto\Mattis.Api.Scrabble.Dto.csproj" />
+    <ProjectReference Include="..\Mattis.Api.Scrabble.Model\Mattis.Api.Scrabble.Model.csproj" />
+    <ProjectReference Include="..\Mattis.Core.Data\Mattis.Core.Data.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

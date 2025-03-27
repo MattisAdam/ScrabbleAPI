@@ -26,6 +26,32 @@
     ]
   },
   {
+    "ContainingType": "MattisApiScrabble.Controllers.MultipleController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/MultipleHistory/Add-MultipleHistory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Mattis.Api.Scrabble.Business.MultipleHistory.Command.CreateMultipleHistoryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Mattis.Api.Scrabble.App.Controllers.PlayerController",
     "Method": "GetByIdAsync",
     "RelativePath": "api/player/{id}",

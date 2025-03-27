@@ -21,7 +21,7 @@ namespace Mattis.Api.Scrabble.App.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<PlayerResponse?>> GetByIdAsync(int id)
         {
-            var result = await _mediator.Send(new GetPlayerByIdQuery { Id = id });
+            var result = await _mediator.Send(new GetHistoryByIdQuery { Id = id });
 
             return Ok(result);
         }

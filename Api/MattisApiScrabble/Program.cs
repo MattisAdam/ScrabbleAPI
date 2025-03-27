@@ -1,14 +1,18 @@
-using Microsoft.OpenApi.Models;
+﻿using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using Swashbuckle.AspNetCore.SwaggerUI;
 using Mattis.Api.Scrabble.Business;
 using Mattis.Api.Scrabble.Db;
+using Microsoft.EntityFrameworkCore;
+using Mattis.Core.Data.DbContexts;
+using Mattis.Api.Scrabble.Db.DbContexts;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Configuration.AddUserSecrets<Program>();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 // START Add configuration
@@ -33,6 +37,8 @@ builder.Services.AddSwaggerGen(delegate (SwaggerGenOptions c)
     //});
 });
 builder.Services.AddApiScrabbleDbContext(builder.Configuration);
+builder.Services.AddDbContext<ApiScrabbleDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MattisScrabbleDb")));
 builder.Services.RegisterScrabbleDbContainer();
 builder.Services.AddAutoMapper(typeof(ApiScrabbleProfile));
 builder.Services.AddMediatR(x => x.RegisterServicesFromAssemblies(typeof(ApiScrabbleProfile).Assembly));

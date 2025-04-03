@@ -5,12 +5,12 @@ using MediatR;
 
 namespace Mattis.Api.Scrabble.Business.Player.Query
 {
-    public class GetPlayerByIdQuery : IRequest<PlayerResponse?>
+    public class GetHistoryByIdQuery : IRequest<PlayerResponse?>
     {
         public int Id { get; set; }
     }
 
-    public class GetPlayerByIdQueryHandler : IRequestHandler<GetPlayerByIdQuery, PlayerResponse?> 
+    public class GetPlayerByIdQueryHandler : IRequestHandler<GetHistoryByIdQuery, PlayerResponse?> 
     {
         readonly IApiScrabbleUnitOfWork _apiScrabbleUnitOfWork;
         readonly IMapper _mapper;
@@ -22,7 +22,7 @@ namespace Mattis.Api.Scrabble.Business.Player.Query
         }
 
 
-        public async Task<PlayerResponse?> Handle(GetPlayerByIdQuery request, CancellationToken cancellationToken)
+        public async Task<PlayerResponse?> Handle(GetHistoryByIdQuery request, CancellationToken cancellationToken)
         {
             var data = await _apiScrabbleUnitOfWork.PlayerRepository.GetByIdAsync(request.Id);
 

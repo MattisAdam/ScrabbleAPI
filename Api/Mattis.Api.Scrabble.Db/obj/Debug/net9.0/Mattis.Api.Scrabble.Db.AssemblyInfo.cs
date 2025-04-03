@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mattis.Api.Scrabble.Db")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3819aaf921fd315cdd720814ff4e0489ff6c673c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mattis.Api.Scrabble.Db")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mattis.Api.Scrabble.Db")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

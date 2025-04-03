@@ -6,32 +6,32 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Mattis.Api.Scrabble.Db.Migrations
 {
     /// <inheritdoc />
-    public partial class MattisApiScrabble : Migration
+    public partial class AddbuilderConfigurationAddUserSecrets3 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Scrabble_Player",
+                name: "MultipleHistory",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Pseudo = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    IsActive = table.Column<bool>(type: "bit", nullable: false),
-                    Birthdate = table.Column<DateTime>(type: "datetime2", nullable: false)
+                    Date = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    Multiple = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Scrabble_Player", x => x.Id);
+                    table.PrimaryKey("PK_MultipleHistory", x => x.Id);
                 });
+
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Scrabble_Player");
+                name: "MultipleHistory");
         }
     }
 }

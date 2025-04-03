@@ -8,13 +8,19 @@ namespace Mattis.Api.Scrabble.Db.UnitOfWork
         public IApiScrabbleDbContext Context { get; }
         public IPlayerRepository PlayerRepository { get; }
         public IGameRepository GameRepository { get; }
+        public IMultipleRepository MultipleRepository { get; }
 
 
-        public ApiScrabbleUnitOfWork(IApiScrabbleDbContext context, IPlayerRepository playerRepository, IGameRepository gameRepository)
+        public ApiScrabbleUnitOfWork(
+            IApiScrabbleDbContext context, 
+            IPlayerRepository playerRepository, 
+            IGameRepository gameRepository, 
+            IMultipleRepository multipleRepository)
         {
             Context = context;
             PlayerRepository = playerRepository;
             GameRepository = gameRepository;
+            MultipleRepository = multipleRepository;
         }
 
         public async Task<int> SaveChangeAsync()

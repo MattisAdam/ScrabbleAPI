@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Dto\\Mattis.Api.Scrabble.Dto.csproj",
+      "projectUniqueName": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Dto\\Mattis.Api.Scrabble.Dto.csproj",
       "projectName": "Mattis.Api.Scrabble.Dto",
-      "projectPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Dto\\Mattis.Api.Scrabble.Dto.csproj",
+      "projectPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Dto\\Mattis.Api.Scrabble.Dto.csproj",
       "packagesPath": "C:\\Users\\LEF\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Dto\\obj\\",
+      "outputPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

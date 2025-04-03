@@ -9,3 +9,15 @@ C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\Mattis
 C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\refint\Mattis.Api.Scrabble.Dto.dll
 C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\Mattis.Api.Scrabble.Dto.pdb
 C:\Users\LEF\Desktop\ScrabbleApi\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\ref\Mattis.Api.Scrabble.Dto.dll
+C:\Users\LEF\Desktop\ScrabbleApi\Api\Mattis.Api.Scrabble.Dto\bin\Debug\net9.0\Mattis.Api.Scrabble.Dto.deps.json
+C:\Users\LEF\Desktop\ScrabbleApi\Api\Mattis.Api.Scrabble.Dto\bin\Debug\net9.0\Mattis.Api.Scrabble.Dto.dll
+C:\Users\LEF\Desktop\ScrabbleApi\Api\Mattis.Api.Scrabble.Dto\bin\Debug\net9.0\Mattis.Api.Scrabble.Dto.pdb
+C:\Users\LEF\Desktop\ScrabbleApi\Api\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\Mattis.Api.Scrabble.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEF\Desktop\ScrabbleApi\Api\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\Mattis.Api.Scrabble.Dto.AssemblyInfoInputs.cache
+C:\Users\LEF\Desktop\ScrabbleApi\Api\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\Mattis.Api.Scrabble.Dto.AssemblyInfo.cs
+C:\Users\LEF\Desktop\ScrabbleApi\Api\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\Mattis.Api.Scrabble.Dto.csproj.CoreCompileInputs.cache
+C:\Users\LEF\Desktop\ScrabbleApi\Api\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\Mattis.Api.Scrabble.Dto.sourcelink.json
+C:\Users\LEF\Desktop\ScrabbleApi\Api\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\Mattis.Api.Scrabble.Dto.dll
+C:\Users\LEF\Desktop\ScrabbleApi\Api\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\refint\Mattis.Api.Scrabble.Dto.dll
+C:\Users\LEF\Desktop\ScrabbleApi\Api\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\Mattis.Api.Scrabble.Dto.pdb
+C:\Users\LEF\Desktop\ScrabbleApi\Api\Mattis.Api.Scrabble.Dto\obj\Debug\net9.0\ref\Mattis.Api.Scrabble.Dto.dll

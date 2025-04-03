@@ -3,6 +3,7 @@ using Mattis.Api.Scrabble.Dto;
 using Mattis.Api.Scrabble.Model;
 using Mattis.Core.Data.Repository;
 using Microsoft.EntityFrameworkCore;
+using System.Runtime.ConstrainedExecution;
 
 namespace Mattis.Api.Scrabble.Db.Repository.Implementations
 {
@@ -19,12 +20,6 @@ namespace Mattis.Api.Scrabble.Db.Repository.Implementations
 
             if (!string.IsNullOrWhiteSpace(criteria.FilterText))
                 query = query.Where(x => x.Pseudo.Contains(criteria.FilterText));
-            if(criteria.MaxAge > 0)
-            {
-                var thisYear = DateTime.Now.Year;
-                query = query.Where(x =>(thisYear - x.Birthdate.Year) <= criteria.MaxAge);
-            }
-
             return await query.ToListAsync();
         }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Model\\Mattis.Api.Scrabble.Model.csproj": {}
+    "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Model\\Mattis.Api.Scrabble.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Model\\Mattis.Api.Scrabble.Model.csproj": {
+    "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Model\\Mattis.Api.Scrabble.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Model\\Mattis.Api.Scrabble.Model.csproj",
+        "projectUniqueName": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Model\\Mattis.Api.Scrabble.Model.csproj",
         "projectName": "Mattis.Api.Scrabble.Model",
-        "projectPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Model\\Mattis.Api.Scrabble.Model.csproj",
+        "projectPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Model\\Mattis.Api.Scrabble.Model.csproj",
         "packagesPath": "C:\\Users\\LEF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Api.Scrabble.Model\\obj\\",
+        "outputPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Core.Data\\Mattis.Core.Data.csproj": {
-                "projectPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Core.Data\\Mattis.Core.Data.csproj"
+              "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Core.Data\\Mattis.Core.Data.csproj": {
+                "projectPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Core.Data\\Mattis.Core.Data.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Core.Data\\Mattis.Core.Data.csproj": {
+    "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Core.Data\\Mattis.Core.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Core.Data\\Mattis.Core.Data.csproj",
+        "projectUniqueName": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Core.Data\\Mattis.Core.Data.csproj",
         "projectName": "Mattis.Core.Data",
-        "projectPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Core.Data\\Mattis.Core.Data.csproj",
+        "projectPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Core.Data\\Mattis.Core.Data.csproj",
         "packagesPath": "C:\\Users\\LEF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Mattis.Core.Data\\obj\\",
+        "outputPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Core.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,31 +121,31 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.3, )"
             },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.3, )"
             }
           },
           "imports": [

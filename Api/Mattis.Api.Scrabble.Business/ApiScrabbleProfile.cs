@@ -11,6 +11,7 @@ namespace Mattis.Api.Scrabble.Business
         {
             CreateMap<PlayerDao, PlayerResponse>().ForMember(dest => dest.Age, opt => opt.MapFrom(src => GetAge(src.Birthdate)));
             CreateMap<PlayerInput, PlayerDao>();
+            CreateMap<MultipleHistoryInput, MultipleHistoryDao>();
         }
 
 

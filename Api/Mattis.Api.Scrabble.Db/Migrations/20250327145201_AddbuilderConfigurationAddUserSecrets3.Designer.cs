@@ -12,18 +12,37 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Mattis.Api.Scrabble.Db.Migrations
 {
     [DbContext(typeof(ApiScrabbleDbContext))]
-    [Migration("20250305110900_MattisApiScrabble")]
-    partial class MattisApiScrabble
+    [Migration("20250327145201_AddbuilderConfigurationAddUserSecrets3")]
+    partial class AddbuilderConfigurationAddUserSecrets3
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "9.0.2")
+                .HasAnnotation("ProductVersion", "9.0.3")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("Mattis.Api.Scrabble.Model.MultipleHistoryDao", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("Multiple")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("MultipleHistory");
+                });
 
             modelBuilder.Entity("Mattis.Api.Scrabble.Model.PlayerDao", b =>
                 {

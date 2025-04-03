@@ -8,7 +8,6 @@ namespace Mattis.Core.Data.DbContexts
     {
         public BaseDbContext(DbContextOptions options) : base(options)
         {
-
         }
 
 

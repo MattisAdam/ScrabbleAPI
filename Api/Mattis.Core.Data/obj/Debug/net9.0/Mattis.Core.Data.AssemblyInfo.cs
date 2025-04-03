@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mattis.Core.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3819aaf921fd315cdd720814ff4e0489ff6c673c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mattis.Core.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mattis.Core.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

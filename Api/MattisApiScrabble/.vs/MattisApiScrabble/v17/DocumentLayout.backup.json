@@ -3,6 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\MattisApiScrabble\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattisapiscrabble\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattisapiscrabble\\controllers\\multiplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|solutionrelative:controllers\\multiplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB637E2-FD79-4AF6-8F15-7BBC769E1E17}|..\\Mattis.Api.Scrabble.Business\\Mattis.Api.Scrabble.Business.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattis.api.scrabble.business\\multiplehistory\\command\\createmultiplehistorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7B6BF6-7312-4788-B5D3-2662A1024AC2}|..\\Mattis.Core.Data\\Mattis.Core.Data.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattis.core.data\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6728E051-BFD7-41BE-87BA-32DFF5CC042D}|..\\Mattis.Api.Scrabble.Db\\Mattis.Api.Scrabble.Db.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattis.api.scrabble.db\\migrations\\apiscrabbledbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,10 +32,6 @@
       "AbsoluteMoniker": "D:0:0:{6728E051-BFD7-41BE-87BA-32DFF5CC042D}|..\\Mattis.Api.Scrabble.Db\\Mattis.Api.Scrabble.Db.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattis.api.scrabble.db\\dbcontexts\\iapiscrabbledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattisapiscrabble\\controllers\\multiplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|solutionrelative:controllers\\multiplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0BE2F6CB-7137-4E6D-B4CE-AA95F36346A1}|..\\Mattis.Api.Scrabble.Dto\\Mattis.Api.Scrabble.Dto.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattis.api.scrabble.dto\\multiplehistoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,10 +43,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\Migrations\\20250327143702_AddbuilderConfigurationAddUserSecrets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattisapiscrabble\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0FF1F582-EB12-4440-B070-2EAB7F7DD7AA}|MattisApiScrabble.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BE2F6CB-7137-4E6D-B4CE-AA95F36346A1}|..\\Mattis.Api.Scrabble.Dto\\Mattis.Api.Scrabble.Dto.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattis.api.scrabble.dto\\playercriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -58,12 +64,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{6728E051-BFD7-41BE-87BA-32DFF5CC042D}|..\\Mattis.Api.Scrabble.Db\\Mattis.Api.Scrabble.Db.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattis.api.scrabble.db\\dbregisterextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EB637E2-FD79-4AF6-8F15-7BBC769E1E17}|..\\Mattis.Api.Scrabble.Business\\Mattis.Api.Scrabble.Business.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattis.api.scrabble.business\\multiplehistory\\command\\createmultiplehistorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A7B6BF6-7312-4788-B5D3-2662A1024AC2}|..\\Mattis.Core.Data\\Mattis.Core.Data.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattis.core.data\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EB637E2-FD79-4AF6-8F15-7BBC769E1E17}|..\\Mattis.Api.Scrabble.Business\\Mattis.Api.Scrabble.Business.csproj|c:\\users\\lef\\desktop\\scrabbleapi\\api\\mattis.api.scrabble.business\\apiscrabbleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -100,93 +100,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250327145201_AddbuilderConfigurationAddUserSecrets3.cs",
-              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\Migrations\\20250327145201_AddbuilderConfigurationAddUserSecrets3.cs",
-              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\Migrations\\20250327145201_AddbuilderConfigurationAddUserSecrets3.cs",
-              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\Migrations\\20250327145201_AddbuilderConfigurationAddUserSecrets3.cs",
-              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\Migrations\\20250327145201_AddbuilderConfigurationAddUserSecrets3.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T14:52:02.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IApiScrabbleDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\DbContexts\\IApiScrabbleDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\DbContexts\\IApiScrabbleDbContext.cs",
-              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\DbContexts\\IApiScrabbleDbContext.cs",
-              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\DbContexts\\IApiScrabbleDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T14:45:35.004Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApiScrabbleDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\DbContexts\\ApiScrabbleDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\DbContexts\\ApiScrabbleDbContext.cs",
-              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\DbContexts\\ApiScrabbleDbContext.cs",
-              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\DbContexts\\ApiScrabbleDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T13:43:38.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApiScrabbleDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\Migrations\\ApiScrabbleDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\Migrations\\ApiScrabbleDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\Migrations\\ApiScrabbleDbContextModelSnapshot.cs",
-              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\Migrations\\ApiScrabbleDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwEQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T13:51:52.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MultipleController.cs",
               "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\MattisApiScrabble\\Controllers\\MultipleController.cs",
               "RelativeDocumentMoniker": "Controllers\\MultipleController.cs",
               "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\MattisApiScrabble\\Controllers\\MultipleController.cs",
               "RelativeToolTip": "Controllers\\MultipleController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T14:02:19.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MultipleHistoryDao.cs",
-              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Model\\MultipleHistoryDao.cs",
-              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Model\\MultipleHistoryDao.cs",
-              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Model\\MultipleHistoryDao.cs",
-              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Model\\MultipleHistoryDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T13:34:02.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "MultipleHistoryResponse.cs",
               "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Dto\\MultipleHistoryResponse.cs",
               "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Dto\\MultipleHistoryResponse.cs",
@@ -199,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "MultipleHistoryInput.cs",
               "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Dto\\MultipleHistoryInput.cs",
               "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Dto\\MultipleHistoryInput.cs",
@@ -212,7 +147,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "CreateMultipleHistoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Business\\MultipleHistory\\Command\\CreateMultipleHistoryCommand.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\MultipleHistory\\Command\\CreateMultipleHistoryCommand.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Business\\MultipleHistory\\Command\\CreateMultipleHistoryCommand.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Business\\MultipleHistory\\Command\\CreateMultipleHistoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:39:22.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiScrabbleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\DbContexts\\ApiScrabbleDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\DbContexts\\ApiScrabbleDbContext.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\DbContexts\\ApiScrabbleDbContext.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\DbContexts\\ApiScrabbleDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:43:38.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Core.Data\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Core.Data\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Core.Data\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "..\\Mattis.Core.Data\\Repository\\BaseRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowC8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:02:51.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\MattisApiScrabble\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\MattisApiScrabble\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T12:59:46.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiScrabbleDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\Migrations\\ApiScrabbleDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\Migrations\\ApiScrabbleDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\Migrations\\ApiScrabbleDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\Migrations\\ApiScrabbleDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:51:52.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultipleHistoryDao.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Model\\MultipleHistoryDao.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Model\\MultipleHistoryDao.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Model\\MultipleHistoryDao.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Model\\MultipleHistoryDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:34:02.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IApiScrabbleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\DbContexts\\IApiScrabbleDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\DbContexts\\IApiScrabbleDbContext.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\DbContexts\\IApiScrabbleDbContext.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\DbContexts\\IApiScrabbleDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:45:35.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250327145201_AddbuilderConfigurationAddUserSecrets3.cs",
+              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\Migrations\\20250327145201_AddbuilderConfigurationAddUserSecrets3.cs",
+              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\Migrations\\20250327145201_AddbuilderConfigurationAddUserSecrets3.cs",
+              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\Migrations\\20250327145201_AddbuilderConfigurationAddUserSecrets3.cs",
+              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Db\\Migrations\\20250327145201_AddbuilderConfigurationAddUserSecrets3.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:52:02.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20250327143702_AddbuilderConfigurationAddUserSecrets.cs",
               "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\Migrations\\20250327143702_AddbuilderConfigurationAddUserSecrets.cs",
               "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\Migrations\\20250327143702_AddbuilderConfigurationAddUserSecrets.cs",
@@ -225,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\MattisApiScrabble\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -238,20 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\MattisApiScrabble\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\MattisApiScrabble\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-26T12:59:46.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "PlayerCriteria.cs",
               "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Dto\\PlayerCriteria.cs",
               "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Dto\\PlayerCriteria.cs",
@@ -263,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "PlayerResponse.cs",
               "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Dto\\PlayerResponse.cs",
               "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Dto\\PlayerResponse.cs",
@@ -275,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "UpdateMultipleHistoryCommand.cs",
               "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Business\\MultipleHistory\\Command\\UpdateMultipleHistoryCommand.cs",
               "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\MultipleHistory\\Command\\UpdateMultipleHistoryCommand.cs",
@@ -287,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "GetHistoryByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Business\\MultipleHistory\\Query\\GetHistoryByIdQuery.cs",
               "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\MultipleHistory\\Query\\GetHistoryByIdQuery.cs",
@@ -299,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "GetPlayersByCriteriaQuery.cs",
               "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Business\\Player\\Query\\GetPlayersByCriteriaQuery.cs",
               "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\Player\\Query\\GetPlayersByCriteriaQuery.cs",
@@ -311,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "GetPlayerByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Business\\Player\\Query\\GetPlayerByIdQuery.cs",
               "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\Player\\Query\\GetPlayerByIdQuery.cs",
@@ -323,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "DbRegisterExtension.cs",
               "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Db\\DbRegisterExtension.cs",
               "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Db\\DbRegisterExtension.cs",
@@ -332,30 +358,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T13:59:45.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreateMultipleHistoryCommand.cs",
-              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Business\\MultipleHistory\\Command\\CreateMultipleHistoryCommand.cs",
-              "RelativeDocumentMoniker": "..\\Mattis.Api.Scrabble.Business\\MultipleHistory\\Command\\CreateMultipleHistoryCommand.cs",
-              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Api.Scrabble.Business\\MultipleHistory\\Command\\CreateMultipleHistoryCommand.cs",
-              "RelativeToolTip": "..\\Mattis.Api.Scrabble.Business\\MultipleHistory\\Command\\CreateMultipleHistoryCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T12:39:22.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Core.Data\\Repository\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "..\\Mattis.Core.Data\\Repository\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\LEF\\Desktop\\ScrabbleApi\\Api\\Mattis.Core.Data\\Repository\\BaseRepository.cs",
-              "RelativeToolTip": "..\\Mattis.Core.Data\\Repository\\BaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T14:02:51.789Z"
             },
             {
               "$type": "Document",

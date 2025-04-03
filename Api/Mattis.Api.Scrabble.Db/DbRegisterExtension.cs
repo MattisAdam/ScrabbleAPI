@@ -14,6 +14,7 @@ namespace Mattis.Api.Scrabble.Db
             services.AddScoped<IApiScrabbleDbContext, ApiScrabbleDbContext>();
             services.AddScoped<IPlayerRepository, PlayerRepository>();
             services.AddScoped<IGameRepository, GameRepository>();
+            services.AddScoped<IMultipleRepository, MultipleRepository>();
         }
     }
 }
